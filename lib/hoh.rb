@@ -5,14 +5,13 @@
 # The tests will guide your construction.
 #
 PORTION_1 = {
-"Kingdom",
-#   sub_category: {
-#     label: "Phylum",
-#     sub_category: {
-#       label: "Class"
-#     }
-#   }
-# }
+"Kingdom"=>{
+sub_category:=>"Phylum",
+    sub_category: {
+      label: "Class"
+    }
+  }
+}
 # 
 # PORTION_2 = {
 #   label: "Order"
