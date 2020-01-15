@@ -8,7 +8,7 @@ PORTION_1 = {
 "Kingdom"=>{
 sub_category:=>"Phylum",
     sub_category: {
-      label: "Class"
+      label: =>"Class"
     }
   }
 }
